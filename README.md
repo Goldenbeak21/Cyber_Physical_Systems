@@ -1,2 +1,4 @@
-# Cyber Physical Systems
-Predict whether the state of the cyber physical systems by analysing its parameters. The dataset is kept private and will be shared shortly.
+# Multi-Variate Time Series Analysis using LSTM/GRU
+
+- Developed a dual attention based LSTM and GRU models to pre-emtively detect anomalies in a power plant. 
+- Used spatial input and temporal attention to extract important features and thereby reduced the false alarm rate and improved the detection accuracy. 
