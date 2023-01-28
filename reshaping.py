@@ -42,14 +42,3 @@ for i in range(3000):
 required = required[0:j ,:,:]
 required = required.reshape((1, j ,903))
 required = required.reshape((1, 301*j ,3))
-
-      
-     
-        
-        
-        
-        
-        
-        
-        
-        
