@@ -73,24 +73,8 @@ plt.rcParams["font.weight"] = "bold"
 plt.show()
 
 
-
-
-
-
-
 pre_t = pre_t.reshape((20,1))
 pow_t = pow_t.reshape((20,1))
 temp_t = temp_t.reshape((20,1))
 xc = np.arange(1,21,1)
 plt.bar(xc, pre_t)
-
-
-
-
-
-
-
-
-
-
-
